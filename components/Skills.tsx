@@ -25,7 +25,7 @@ const groups = [
     items: [
       "Git / GitHub",
       "Docker",
-      "AWS EC2",
+      "AWS",
       "PostgreSQL",
       "MongoDB",
       "Pinecone",
