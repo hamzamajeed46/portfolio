@@ -2,6 +2,15 @@ import ProjectCard from "./ProjectCard";
 
 const projects = [
   {
+    eyebrow: "Agentic AI · SaaS",
+    title: "MeiChat",
+    period: "2024 — 2025",
+    description:
+      "A multi-tenant SaaS platform for spinning up custom AI chatbots with their own scope, instructions, and guardrails. A LangGraph agent handles tool calling, RAG retrieval, and lead capture on its own, embeddable on any site via a lightweight JS widget.",
+    stack: ["FastAPI", "LangGraph", "Pinecone", "JavaScript"],
+    link: { href: "https://chat.meissasoft.com/", label: "chat.meissasoft.com" },
+  },
+  {
     eyebrow: "RAG · Product Search",
     title: "Mood Refresh",
     period: "2026",
@@ -18,15 +27,6 @@ const projects = [
       "An AI trading and backtesting platform for training and comparing ML models across stock tickers, with a versioned recipe system for reproducible strategies and an async backend that streams training progress over WebSockets.",
     stack: ["FastAPI", "PostgreSQL", "Redis", "TensorFlow", "scikit-learn", "AWS EC2"],
     link: { href: "https://velolab.io", label: "velolab.io" },
-  },
-  {
-    eyebrow: "Agentic AI · SaaS",
-    title: "MeiChat",
-    period: "2024 — 2025",
-    description:
-      "A multi-tenant SaaS platform for spinning up custom AI chatbots with their own scope, instructions, and guardrails. A LangGraph agent handles tool calling, RAG retrieval, and lead capture on its own, embeddable on any site via a lightweight JS widget.",
-    stack: ["FastAPI", "LangGraph", "Pinecone", "JavaScript"],
-    link: { href: "https://chat.meissasoft.com/", label: "chat.meissasoft.com" },
   },
   {
     eyebrow: "LLM · Final Year Project",
