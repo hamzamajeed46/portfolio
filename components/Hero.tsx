@@ -10,7 +10,7 @@ export default function Hero() {
               <span className="absolute inline-flex h-full w-full rounded-full bg-teal opacity-60 node-pulse" />
               <span className="relative inline-flex h-2 w-2 rounded-full bg-teal" />
             </span>
-            available for work
+            available for work · remote
           </span>
           <p className="eyebrow text-teal mb-5">// backend · agentic ai · rag</p>
           <h1 className="font-display font-bold text-4xl sm:text-5xl leading-[1.1] tracking-tight">

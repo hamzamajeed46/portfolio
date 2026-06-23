@@ -24,6 +24,9 @@ export const metadata: Metadata = {
   title: "Hamza Majeed — Software Engineer, AI/ML",
   description:
     "Backend engineer specializing in agentic AI, RAG pipelines, and the APIs that hold them together. Based in Lahore, Pakistan.",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
