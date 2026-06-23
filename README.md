@@ -23,16 +23,5 @@ npm run start
 
 ## Deploy
 
-This is a standard Next.js app, so it deploys as-is to Vercel, or anywhere
-else that runs Node (including a Coolify instance, similar to the Mood
-Refresh deployment).
+This is a standard Next.js app, so it deploys as-is to Vercel.
 
-## Editing content
-
-- Copy/text for each section lives directly in the matching file under
-  `components/` (e.g. `components/Projects.tsx`, `components/Skills.tsx`).
-- Contact details are in `components/Footer.tsx` — double check the LinkedIn
-  URL, since it was OCR'd from a PDF and may need a fix.
-- Swap `public/resume.pdf` for an updated résumé any time; the "résumé ↓"
-  button in the nav always points to that file.
-- Colors and fonts are defined in `tailwind.config.ts` and `app/layout.tsx`.
