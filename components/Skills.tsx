@@ -6,8 +6,8 @@ const groups = [
   {
     label: "Frameworks & Libraries",
     items: [
-      "Django",
       "FastAPI",
+      "Django",
       "Flask",
       "LangChain",
       "LangGraph",

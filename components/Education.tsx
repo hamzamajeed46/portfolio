@@ -8,7 +8,7 @@ export default function Education() {
             Punjab University College of Information Technology (PUCIT)
           </h3>
           <p className="font-mono text-sm text-amber mt-1">
-            BS, Data Science · CGPA 3.44
+            BS, Data Science · CGPA 3.44 · Lahore
           </p>
         </div>
         <span className="font-mono text-xs text-slate">Dec 2021 — Jun 2025</span>
